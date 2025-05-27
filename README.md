@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Adriana and I'm a Software Engineer with a huge passion for all things tech. I'm always up for a new challenge and enjoy working on fun side projects, especially within embedded systems and micro controllers.
+
 <!--
 **adfrij/adfrij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
